@@ -1,0 +1,4 @@
+
+
+
+default[:stripe][:mode] = 'test'
